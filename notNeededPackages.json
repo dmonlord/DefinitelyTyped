@@ -94,6 +94,12 @@
             "typingsPackageName": "normalizr",
             "sourceRepoURL": "https://github.com/paularmstrong/normalizr",
             "asOfVersion": "2.0.18"
+        },
+        {
+            "libraryName": "Sugar",
+            "typingsPackageName": "sugar",
+            "sourceRepoURL": "https://github.com/andrewplummer/Sugar",
+            "asOfVersion": "2.0.2"
         }
     ]
 }
