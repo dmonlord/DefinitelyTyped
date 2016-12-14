@@ -25,6 +25,7 @@ interface Numeral {
 	version: string;
 	isNumeral: boolean;
 	language(key?: string, values?: NumeralJSLanguage): Numeral | string;
+	languageData(key?: string): NumeralJSLanguage;
 	zeroFormat(format: string): string;
 	clone(): Numeral;
 	format(inputString?: string): string;
